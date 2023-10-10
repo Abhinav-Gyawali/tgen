@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: tgen
+Version: 0.0.1
+Summary: Making token verification
+Author: ABlI (Abhinav Gyawali)
+Author-email: <contact@abhinav-gyawali.com.np>
+Keywords: python,token,generator,verifiaction,django
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Web Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+Requires-Dist: six
+Requires-Dist: django
+
+A pacckage that allows you to generate a token for different purposes like to make , verify token.

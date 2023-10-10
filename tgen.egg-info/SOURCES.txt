@@ -1,0 +1,8 @@
+setup.py
+tgen/__init__.py
+tgen/token.py
+tgen.egg-info/PKG-INFO
+tgen.egg-info/SOURCES.txt
+tgen.egg-info/dependency_links.txt
+tgen.egg-info/requires.txt
+tgen.egg-info/top_level.txt
